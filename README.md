@@ -8,4 +8,4 @@
 > [어디에서나 찾는 길거리 음식점]
 >> 내 주변은 물론 전국 각 지역의 길거리 음식점을 찾을 수 있어요.
 
- <img src="https://github.com/danbin920404/Bungsegwon/blob/main/Image/MainImage.png" width="986" height="766"  />
+ <img src="https://user-images.githubusercontent.com/63341678/103288870-3815cf00-4a29-11eb-9e7c-5d13c7b904d7.png" width="565" height="766"  />
